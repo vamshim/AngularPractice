@@ -1,0 +1,12 @@
+{
+
+    "prepaid":[
+        {"price":199,"validity":"28 days","voice":"unlimited","data":"2gb perday"},
+        {"price":299,"validity":"27 days","voice":"unlimited","data":"3gb perday"}
+    ]
+    ,
+    "postpaid":[
+        {"price":499,"validity":"28 days","voice":"unlimited","data":"unlimited"},
+        {"price":399,"validity":"27 days","voice":"unlimited","data":"unlimited"}
+    ]
+}
