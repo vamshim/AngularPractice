@@ -1,19 +1,61 @@
 {
-
-    "lifeInsurance":[
-        {"id":101,"policyHolderName":"Ramesh","policyAmount":450000},
-        {"id":102,"policyHolderName":"Vamshi","policyAmount":550000},
-        {"id":103,"policyHolderName":"Suresh","policyAmount":650000},
-        {"id":104,"policyHolderName":"Naresh","policyAmount":750000},
-        {"id":105,"policyHolderName":"Ganesh","policyAmount":850000}
-
-    ],
-    "advisors":[
-        {"id":201,"name":"kumar","mobileNumber":9959412417},
-        {"id":202,"name":"Reddy","mobileNumber":8759412417},
-        {"id":203,"name":"Shiva","mobileNumber":1259412417},
-        {"id":204,"name":"Mohit","mobileNumber":3459412417},
-        {"id":205,"name":"Vamshi","mobileNumber":5959412417}
-    ]
-
+  "lifeInsurance": [
+    {
+      "id": 102,
+      "policyHolderName": "Vamshi",
+      "policyAmount": "55000000",
+      "maturityDate": "2022-09-12"
+    },
+    {
+      "id": 104,
+      "policyHolderName": "Naresh1",
+      "policyAmount": 750000,
+      "maturityDate": "2021-01-19"
+    },
+    {
+      "id": 105,
+      "policyHolderName": "Ganesh",
+      "policyAmount": 850000,
+      "maturityDate": "2025-11-22"
+    },
+    {
+      "id": "106",
+      "policyHolderName": "Verizon",
+      "maturityDate": "2018-11-01T09:53:20.528Z",
+      "policyAmount": "565000"
+    },
+    {
+      "id": "107",
+      "policyHolderName": "Tejasree",
+      "maturityDate": "2018-11-23",
+      "policyAmount": "600000"
+    }
+  ],
+  "advisors": [
+    {
+      "id": 201,
+      "name": "kumar",
+      "mobileNumber": 9959412417
+    },
+    {
+      "id": 202,
+      "name": "Reddy",
+      "mobileNumber": 8759412417
+    },
+    {
+      "id": 203,
+      "name": "Shiva",
+      "mobileNumber": 1259412417
+    },
+    {
+      "id": 204,
+      "name": "Mohit",
+      "mobileNumber": 3459412417
+    },
+    {
+      "id": 205,
+      "name": "Vamshi",
+      "mobileNumber": 5959412417
+    }
+  ]
 }
